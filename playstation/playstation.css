@@ -45,3 +45,11 @@
     margin:20px auto !important;
   
 }
+button{
+background-color: rgb(38, 38, 236) !important;
+color: white !important;
+border-radius: 20px !important;
+margin-left:20px;
+margin-right:20px;
+width:fit-content;
+}
